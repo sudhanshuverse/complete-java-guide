@@ -2,7 +2,6 @@
 
 A comprehensive Core Java repository with syllabus, assignments, and practice question sets for learning and mastering Java.
 
----
 
 ## 📚 Java Syllabus
 
@@ -51,7 +50,6 @@ This repository covers the following topics:
 12. **Java 8 Features (Optional)**
    - Lambda Expressions
    - Streams
----
 
 
 ## ⚡ How to Use
@@ -60,7 +58,6 @@ Clone the repository:
 ```js
 git clone https://github.com/yourusername/complete-java-guide.git
 ```
----
 
 ## 📌 Contribution
 
