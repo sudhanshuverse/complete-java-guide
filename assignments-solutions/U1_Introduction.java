@@ -75,5 +75,46 @@ class U1_Introduction {
         // int inInteger = letter;
         // System.out.println("I in integer ASCII: " + inInteger);
 
+
+
+        // 11. WAP to display your details in a formatted table (Name, Course, College, Age) using printf. 
+
+        // String name = "Sudhanshu Kumar";
+        // String course = "BCA";
+        // String college = "Shri Ram College";
+        // int age = 21;
+
+        // System.out.printf("Name = %s\n", name);
+        // System.out.printf("Course = %s\n", course);
+        // System.out.printf("College = %s\n", college);
+        // System.out.printf("Age = %d", age);
+
+
+
+        // 12. WAP to display a 3x3 Tic-Tac-Toe board using escape sequences. 
+
+        // System.out.println("  X   |     |   0 ");
+        // System.out.println("______|_____|_____");
+        // System.out.println("      |     |     ");
+        // System.out.println("  0   |     |   X ");
+        // System.out.println("______|_____|_____");
+        // System.out.println("      |     |     ");
+        // System.out.println("  X   |     |   0 ");
+
+
+
+        // 13. WAP to display ASCII values of all printable characters in a formatted table. 
+
+        // System.out.println("ASCII Table");
+        // System.out.println("----------------");
+        // System.out.println("Char     ASCII");
+        // System.out.println("----------------");
+        
+        // for(int i = 32; i <= 126; i++)
+        // {
+        //     System.out.printf("%c     %d\n", (char)i ,i);
+        // }
+        
     }
+
 }
