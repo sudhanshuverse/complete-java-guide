@@ -5,7 +5,7 @@ public class U2_Operator {
     public static void main(String[] args) {
         
 
-    // 1. WAP to to print the sum of two numbers enter by user.
+    // 1. Write a program to to print the sum of two numbers enter by user.
 
     // Scanner sc = new Scanner(System.in);
     // System.out.print("Enter the two numbers: ");
@@ -17,7 +17,7 @@ public class U2_Operator {
     // System.out.println("Sum = " + sum);
 
 
-    // 2. WAP to calculate the square of a number entered by user.
+    // 2. Write a program to calculate the square of a number entered by user.
 
     // Scanner sc = new Scanner(System.in);
 
@@ -28,7 +28,7 @@ public class U2_Operator {
 
 
 
-    // 3. WAP to calculate the area of a rectangle using user input. 
+    // 3. Write a program to calculate the area of a rectangle using user input. 
 
     // Scanner sc = new Scanner(System.in);
     // System.out.print("Enter the length of rectangle: ");
@@ -42,7 +42,7 @@ public class U2_Operator {
 
 
 
-    // 4. WAP to calculate the area of a circle. Take radius from the user and display in format: "Area of circle is A having the radius R" 
+    // 4. Write a program to calculate the area of a circle. Take radius from the user and display in format: "Area of circle is A having the radius R" 
 
     // Scanner sc = new Scanner(System.in);
 
@@ -55,7 +55,7 @@ public class U2_Operator {
 
 
 
-    // 5. WAP to calculate the average of three integers. 
+    // 5. Write a program to calculate the average of three integers. 
 
     // Scanner sc = new Scanner(System.in);
 
@@ -67,7 +67,7 @@ public class U2_Operator {
 
 
 
-    // 6. WAP to calculate the circumference of a circle. 
+    // 6. Write a program to calculate the circumference of a circle. 
 
     // Scanner sc = new Scanner(System.in);
     // System.out.print("Enter the radius: ");
@@ -79,7 +79,7 @@ public class U2_Operator {
 
 
 
-    // 7. WAP to calculate the simple interest
+    // 7. Write a program to calculate the simple interest
 
     // Scanner sc = new Scanner(System.in);
 
@@ -98,7 +98,7 @@ public class U2_Operator {
 
 
 
-    // 8. WAP to calculate the volume of a cuboid. 
+    // 8. Write a program to calculate the volume of a cuboid. 
 
     // Scanner sc = new Scanner(System.in);
 
@@ -110,7 +110,7 @@ public class U2_Operator {
 
 
 
-    // 9. WAP to input a character from the user and print its ASCII code.
+    // 9. Write a program to input a character from the user and print its ASCII code.
     
     // Scanner sc = new Scanner(System.in);
 
@@ -122,7 +122,7 @@ public class U2_Operator {
 
 
 
-    // 10. WAP to input an ASCII code from the user and print its corresponding character.
+    // 10. Write a program to input an ASCII code from the user and print its corresponding character.
     
     // Scanner sc = new Scanner(System.in);
 
@@ -133,7 +133,7 @@ public class U2_Operator {
 
 
 
-    // 11. WAP to input three characters from the user and display them with their ASCII codes.
+    // 11. Write a program to input three characters from the user and display them with their ASCII codes.
 
     // Scanner sc = new Scanner(System.in);
 
@@ -149,7 +149,7 @@ public class U2_Operator {
 
 
 
-    // 12. WAP to take a date as input in "DD/MM/YYYY" format and display it as: "Day - DD, Month - MM, Year - YYYY" 
+    // 12. Write a program to take a date as input in "DD/MM/YYYY" format and display it as: "Day - DD, Month - MM, Year - YYYY" 
 
     // Scanner sc = new Scanner(System.in);
 
@@ -163,7 +163,7 @@ public class U2_Operator {
 
 
 
-    // 13. WAP to  take time as input in "HH:MM" format and display it as: "HH hour and MM minutes" 
+    // 13. Write a program to  take time as input in "HH:MM" format and display it as: "HH hour and MM minutes" 
 
     // Scanner sc = new Scanner(System.in);
 
@@ -176,7 +176,7 @@ public class U2_Operator {
 
 
 
-    // 14. WAP to input a floating-point number and print it with 2, 4, and 6 decimal places. 
+    // 14. Write a program to input a floating-point number and print it with 2, 4, and 6 decimal places. 
 
     // Scanner sc = new Scanner(System.in);
 
@@ -191,7 +191,7 @@ public class U2_Operator {
 
 
 
-    // 15. WAP to input time in seconds and convert to HH:MM:SS format.
+    // 15. Write a program to input time in seconds and convert to HH:MM:SS format.
 
     // Scanner sc = new Scanner(System.in);
 
@@ -208,7 +208,7 @@ public class U2_Operator {
 
 
     
-    // 16. WAP to take a number and print it in binary, octal, and hexadecimal.
+    // 16. Write a program to take a number and print it in binary, octal, and hexadecimal.
 
         // Scanner sc= new Scanner(System.in);
         // System.out.print("Enter a number: ");
@@ -224,6 +224,117 @@ public class U2_Operator {
         // System.out.println("Hexadecimal: " + hexadecimal.toUpperCase());
 
 
+
+        // 17. Write a program to print the unit digit of a given number. (Example 234 where 4 is unit digit, 987 where 7 is unit digit)
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter a number: ");
+
+        // int num = sc.nextInt();
+        // int unitDigit = num % 10;
+
+        // System.out.println("The unit/last digit of number is: " + unitDigit);
+
+
+
+        // 18. Write a program to print a given number without its last digit. 
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter a number: ");
+
+        // int number = sc.nextInt();
+        // int withOutLastDig = number / 10;
+
+        // System.out.println("Number without last digit: " + withOutLastDig);
+
+
+
+        // 19. Write a program to print the sWrite a program values of two int variables.
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter two number: ");
+        // int num1 = sc.nextInt();
+        // int num2 = sc.nextInt();
+
+        // System.out.println("Before sWrite a program A = " + num1 + "\nBefore sWrite a program B = " + num2);
+
+        // int num3 = num1;
+        // num1 = num2;
+        // num2 = num3;
+        // System.out.println("After sWrite a program A = " + num1 + "\nAfter sWrite a program B = " + num2);
+
+
+
+        // 20. Write a program to print the sWrite a program values of two int variables without third variable.
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter two number: ");
+        // int num1 = sc.nextInt();
+        // int num2 = sc.nextInt();
+
+        // System.out.println("Before sWrite a program A = " + num1 + "\nBefore sWrite a program B = " + num2);
+
+        // num1 = num1 + num2;
+        // num2 = num1 - num2;
+        // num1 = num1 - num2;
+        // System.out.println("After sWrite a program A = " + num1 + "\nAfter sWrite a program B = " + num2);
+
+
+
+        // 21. Write a program to print the sWrite a program values of two int variables without third variable and without using +, _ operator.
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter two number: ");
+        // int num1 = sc.nextInt();
+        // int num2 = sc.nextInt();
+
+        // System.out.println("Before sWrite a program A = " + num1 + "\nBefore sWrite a program B = " + num2);
+
+        // num1 = num1 * num2;
+        // num2 = num1 / num2;
+        // num1 = num1 / num2;
+        // System.out.println("After sWrite a program A = " + num1 + "\nAfter sWrite a program B = " + num2);
+
+
+
+        // 22. Write a program to sWrite a program  values of two int variables without using a third variable and without using arithmetic operators. 
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter two number: ");
+        // int num1 = sc.nextInt();
+        // int num2 = sc.nextInt();
+
+        // System.out.println("Before sWrite a program A = " + num1 + "\nBefore sWrite a program B = " + num2);
+
+        // num1 = num1 ^ num2;
+        // num2 = num1 ^ num2;
+        // num1 = num1 ^ num2;
+        // System.out.println("After sWrite a program A = " + num1 + "\nAfter sWrite a program B = " + num2);
+
+
+
+        // 23. Write a program to sWrite a program values of two int variables in a single-line arithmetic expression. 
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter two number: ");
+        // int num1 = sc.nextInt();
+        // int num2 = sc.nextInt();
+
+        // System.out.println("Before sWrite a program A = " + num1 + "\nBefore sWrite a program B = " + num2);
+
+        // num1  = (num1 + num2) - (num2 = num1);
+
+        // System.out.println("After sWrite a program A = " + num1 + "\nAfter sWrite a program B = " + num2);
+
+
+     
     
     }
 }
