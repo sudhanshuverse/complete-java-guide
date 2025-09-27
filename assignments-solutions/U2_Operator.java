@@ -139,13 +139,13 @@ public class U2_Operator {
 
     // System.out.print("Enter the three character: ");
 
-    // char Fcharacter1 = sc.next().charAt(0);
-    // char Fcharacter2 = sc.next().charAt(0);
-    // char Fcharacter3 = sc.next().charAt(0);
+    // char fCharacter1 = sc.next().charAt(0);
+    // char fCharacter2 = sc.next().charAt(0);
+    // char fCharacter3 = sc.next().charAt(0);
 
-    // System.out.println("First Character: " + Fcharacter1 + "\t\t\tASCII Code: " + (int) Fcharacter1);
-    // System.out.println("Second Character: " + Fcharacter2 + "\t\t\tASCII Code: " + (int) Fcharacter2);
-    // System.out.println("Third Character: " + Fcharacter3 + "\t\t\tASCII Code: " + (int) Fcharacter3);
+    // System.out.println("First Character: " + fCharacter1 + "\t\t\tASCII Code: " + (int) fCharacter1);
+    // System.out.println("Second Character: " + fCharacter2 + "\t\t\tASCII Code: " + (int) fCharacter2);
+    // System.out.println("Third Character: " + fCharacter3 + "\t\t\tASCII Code: " + (int) fCharacter3);
 
 
 
