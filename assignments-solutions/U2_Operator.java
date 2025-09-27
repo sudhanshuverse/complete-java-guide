@@ -208,7 +208,21 @@ public class U2_Operator {
 
 
     
-    
+    // 16. WAP to take a number and print it in binary, octal, and hexadecimal.
+
+        // Scanner sc= new Scanner(System.in);
+        // System.out.print("Enter a number: ");
+        // int num = sc.nextInt();
+
+        // String binary = Integer.toBinaryString(num);
+        // String octal = Integer.toOctalString(num);
+        // String hexadecimal = Integer.toHexString(num);
+
+        // System.out.println("Decimal: " + num);
+        // System.out.println("Binary: " + binary);
+        // System.out.println("Octal: " + octal);
+        // System.out.println("Hexadecimal: " + hexadecimal.toUpperCase());
+
 
     
     }
