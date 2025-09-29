@@ -411,6 +411,47 @@ public class U2_Operator {
         // System.out.println("Celsius: " + celsius + "\tKelvin: " + kelvin);
 
 
+
+        // 28. WAP to input radius and height of a cylinder and calculate volume and surface area. 
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter the height of cylinder: ");
+        // float height = sc.nextFloat();
+
+        // System.out.print("Enter the radius of cylinder: ");
+        // float radius = sc.nextFloat();
+
+        // float PI = 3.14f;
+        // float volume = PI * (radius * radius) * height;
+        // float surfaceArea = 2 * PI * (radius + height);
+
+        // System.out.println("Volume of cylinder: " + volume);
+        // System.out.println("Surface area of cylinder: " + surfaceArea);
+
+
+
+        // 29. WAP to input three angles of a triangle and check if they form a valid triangle. 
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter the three angles of triangle: ");
+
+        // float firstAngle = sc.nextFloat();
+        // float secondAngle = sc.nextFloat();
+        // float thirdAngle = sc.nextFloat();
+
+        // if ((firstAngle + secondAngle + thirdAngle == 180) && (firstAngle > 0 && secondAngle > 0 && thirdAngle > 0)) {
+        //     System.out.println("The angles form a valid triangle.");
+        // } else {
+        //     System.out.println( "The angles do not form a valid triangle.");
+        // }
+
+
+
+
+
+
         
         
 
