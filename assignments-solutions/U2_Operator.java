@@ -365,6 +365,53 @@ public class U2_Operator {
         // System.out.println("Largest: " + largest);
         // System.out.println("Smallest: " + smallest);
         // System.out.println("Average: " + average);
+
+
+
+        // 25. WAP to input date in  DD/MM/YYYY and then display in month DD,YYYY format.
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter the date in this format (DD/MM/YYYY): ");
+
+        // String date = sc.next();
+        // String[] newDate = date.split("/");
+        // System.out.println("New Date (DD,YYYY): " + newDate[0] + ", " + newDate[2]);
+
+
+
+        // 26. WAP to to input length in meters and convert to feet, inches, and centimeters.
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter the length in meter: ");
+        // float meters = sc.nextFloat();
+
+        // float inches = meters * 39.3701f;
+        // float centimeters = inches / 2.54f;
+        // float feet = centimeters / 30.48f;
+
+        // System.out.println("Meter = " + meters + "\tFeet: " + feet);
+        // System.out.println("Meter = " + meters + "\tInches: " + inches);
+        // System.out.println("Meter = " + meters + "\tCentimeter: " + centimeters);
+
+
+
+        // 27. WAP to input temperature in Celsius and convert to Fahrenheit and Kelvin.
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter the temperature in celsius: ");
+
+        // float celsius = sc.nextFloat();
+        // float fahrenheit = (celsius * 9/5) + 32;
+        // float kelvin = celsius + 273.15f;
+
+        // System.out.println("Celsius: " + celsius + "\tFahrenheit: " + fahrenheit);
+        // System.out.println("Celsius: " + celsius + "\tKelvin: " + kelvin);
+
+
+        
         
 
 
