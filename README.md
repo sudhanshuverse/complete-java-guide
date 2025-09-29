@@ -56,7 +56,7 @@ This repository covers the following topics:
 
 Clone the repository:
 ```js
-git clone https://github.com/yourusername/complete-java-guide.git
+git clone https://github.com/sudhaverse/complete-java-guide.git
 ```
 
 ## 📌 Contribution
