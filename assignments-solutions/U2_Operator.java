@@ -334,7 +334,39 @@ public class U2_Operator {
         // System.out.println("After sWrite a program A = " + num1 + "\nAfter sWrite a program B = " + num2);
 
 
-     
-    
+
+        // 24. Write a program to input three numbers where and print largest, smallest, and average.
+
+        // Scanner sc = new Scanner(System.in);
+
+        // System.out.print("Enter three numbers: ");
+        // int num1 = sc.nextInt();
+        // int num2 = sc.nextInt();
+        // int num3 = sc.nextInt();
+
+        // int largest = 0, smallest = 0, average = (num1 + num2 + num3)/3;
+
+        // if(num1 >= num2 && num1 >= num3){
+        //     largest = num1;
+        // }else if(num2 >= num1 && num2 >= num3){
+        //     largest = num2;
+        // }else{
+        //     largest = num3;
+        // }
+
+        // if(num1 <= num2 && num1 <= num3){
+        //     smallest = num1;
+        // }else if(num2 <= num1 && num2 <= num3){
+        //     smallest = num2;
+        // }else{
+        //     smallest = num3;
+        // }
+
+        // System.out.println("Largest: " + largest);
+        // System.out.println("Smallest: " + smallest);
+        // System.out.println("Average: " + average);
+        
+
+
     }
 }
